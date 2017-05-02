@@ -31,3 +31,5 @@ task :main do
 	puts "Vai para a pasta no terminal para o projeto principal"
 	 cmd 'cd /Documents/Rbcode/TDD-treinamento-QA'
 end
+
+#Criar task para dar push no projeto
